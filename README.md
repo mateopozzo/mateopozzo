@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @mateopozzo
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning c
+Soy Mateo Pozzo Galdón
 
